@@ -5,7 +5,7 @@ export default {
   lang: 'en-CN',
   title: 'Blog',
   description: 'My first Blog',
-
+  base: '/',
   theme: defaultTheme({
     logo: '/images/logo.png',
     logoDark: '/images/darkLogo.png',
